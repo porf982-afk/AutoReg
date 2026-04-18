@@ -27,3 +27,11 @@
    ```bash
    git clone https://github.com/yourusername/AutoReg.git
    cd AutoReg
+   
+2. Установка зависимостей:
+   ```bash
+   pip install requests selenium pyautogui pynput
+   
+3. Запуск:
+   ```bash
+   python script.py
